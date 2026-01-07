@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050844227080",
+    "project_id": "contohfirebase-2808b",
+    "storage_bucket": "contohfirebase-2808b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050844227080:android:d08e319d58f397616353bd",
+        "android_client_info": {
+          "package_name": "com.example.contohfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCou1obyYiCBjtoVQNZKo1057JrRvIPPdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
