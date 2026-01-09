@@ -6,7 +6,7 @@ import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.contohfirebase.modeldata.Siswa
-import com.example.contohfirebase.repositori.RepositorySiswa
+import com.example.contohfirebase   .repositori.RepositorySiswa
 import kotlinx.coroutines.launch
 import java.io.IOException
 
@@ -26,6 +26,7 @@ class HomeViewModel(
     init {
         loadSiswa()
     }
+
     fun loadSiswa() {
         viewModelScope.launch {
             statusUiSiswa = StatusUiSiswa.Loading
