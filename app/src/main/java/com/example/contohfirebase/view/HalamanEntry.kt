@@ -23,13 +23,13 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.contohfirebase.R
 import com.example.contohfirebase.modeldata.DetailSiswa
 import com.example.contohfirebase.modeldata.UIStateSiswa
 import com.example.contohfirebase.view.route.DestinasiEntry
-import kotlinx.coroutines.launch
-import com.example.contohfirebase.R
 import com.example.contohfirebase.viewmodel.EntryViewModel
 import com.example.contohfirebase.viewmodel.PenyediaViewModel
+import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
